@@ -1,0 +1,47 @@
+### 📊 sales_data.xlsx
+
+| Date       | Product    | Category    | Quantity | Price |
+| ---------- | ---------- | ----------- | -------- | ----- |
+| 01-04-2026 | Laptop     | Electronics | 2        | 50000 |
+| 02-04-2026 | Mobile     | Electronics | 5        | 20000 |
+| 03-04-2026 | Headphones | Electronics | 10       | 2000  |
+| 04-04-2026 | Shirt      | Clothing    | 8        | 1500  |
+| 05-04-2026 | Shoes      | Footwear    | 4        | 3000  |
+| 06-04-2026 | Laptop     | Electronics | 1        | 52000 |
+| 07-04-2026 | Mobile     | Electronics | 3        | 21000 |
+| 08-04-2026 | Shirt      | Clothing    | 6        | 1400  |
+| 09-04-2026 | Shoes      | Footwear    | 5        | 2800  |
+| 10-04-2026 | Headphones | Electronics | 7        | 1800  |
+| 11-04-2026 | Laptop     | Electronics | 2        | 51000 |
+| 12-04-2026 | Shirt      | Clothing    | 10       | 1600  |
+| 13-04-2026 | Mobile     | Electronics | 4        | 19500 |
+| 14-04-2026 | Shoes      | Footwear    | 3        | 3200  |
+| 15-04-2026 | Headphones | Electronics | 12       | 2200  |
+
+---
+
+### 📌 Column Explanation
+
+* **Date** → Transaction date
+* **Product** → Product name
+* **Category** → Product type
+* **Quantity** → Units sold
+* **Price** → Price per unit
+
+---
+
+### ⚠️ Important
+
+* Save file as:
+  👉 `data/sales_data.xlsx`
+* Column names must match exactly
+* Keep date format consistent
+
+---
+
+### 💡 Pro Tips (to impress faculty)
+
+* Add 30–50 rows
+* Use multiple categories
+* Mention in viva:
+  👉 “Project handles real-world scalable sales datasets”
